@@ -1,0 +1,113 @@
+.m-f{
+    height: 70vh;
+    background-color: #faf8f8;
+    margin-top: 61px;
+}
+.m-s{
+    height: 67vh;
+    width: 71.5vw;
+    margin: auto;
+    /* background-color: rgba(40, 95, 179, 0.333); */
+    /* display: flex; */
+    /* align-items: center; */
+    /* justify-content: center; */
+}
+.m-t{
+    height: 20vh;
+    /* background-color: #a216be; */
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+
+}
+.m-m{
+    height: 8vh;
+    width: 100%;
+    /* background-color: #1dbc7a; */
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.m-iw{
+    height: 40px;
+    width: 16vw;
+    /* background-color: red; */
+    align-items: center;
+    display: flex;
+    justify-content:space-between;
+}
+
+.b1{
+    width: 7vw;
+    height: 5vh;
+    align-items: center;
+    display: flex;
+    justify-content:space-around;
+    font-size: 18px;
+}
+.b2{
+    font-size: 18px;
+    width: 8vw;
+    height: 5vh;
+    align-items: center;
+    display: flex;
+    justify-content:space-around;
+}
+.first-b{
+    border-bottom: 1px solid rgb(201, 201, 201);
+    height:48vh;
+    /* width: 15vw; */
+    /* background-color: #82dfe3; */
+    display: flex;
+    justify-content:space-between;
+    /* flex-wrap: wrap; */
+    margin-bottom: 5px;
+    /* align-items: center; */
+}
+.first-b .class{
+    margin: 5px 12px;
+}
+.first-b .class .coulm-link {
+    list-style: none;
+    margin-top: 16px;
+}
+.first-b .class .coulm-link li{
+margin:10px 0px;
+}
+.first-b .class .coulm-link li a {
+    text-decoration: none;
+    color: #919090;
+    font-size: 15px;
+}
+.first-b  .class div{
+text-transform: uppercase;
+letter-spacing: 1px;
+font-size: 16px;
+}
+.coulm-link a img{
+    padding:2px;
+}
+.coulm-link li {
+    padding-top: 10px;
+}
+.coulm-link li img{
+    display: flex;
+    border-radius: 5px;
+    background-color: #7d0606;
+    justify-content: space-around;
+}
+.l-i{
+    background-color: #7262aa;
+  /* margin-bottom: 30px; */
+}
+.line{
+    margin-top: 25px;
+    /* color:#7d0606 */
+}
+.ek {
+    margin-top: 20px;
+    color: #919090;
+}
+
+
+
